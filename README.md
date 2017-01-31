@@ -6,4 +6,5 @@ personal collection of some great packages,themes,tutorials of sublime text3
 
 ## getting started
 
-- [Sublime Text](http://www.sublimetext.com/) - if you haven't even installed the text editor yet, download it here
+- [Sublime Text](http://www.sublimetext.com/) - if you haven't even installed sublime text3 yet, download it here
+- [key bindings]()
