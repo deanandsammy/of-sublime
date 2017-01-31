@@ -60,7 +60,10 @@
 // move caret to line start
 { "keys": ["alt+s"], "command":"move_to", "args": {"to": "bol","extend": false} },
 // move caret to line end
-{ "keys": ["alt+e"], "command":"move_to", "args": {"to": "eol","extend": false} }
+{ "keys": ["alt+e"], "command":"move_to", "args": {"to": "eol","extend": false} },
+
+// expand selection
+{ "keys": ["alt+shift+e"], "command": "expand_selection", "args": {"to": "scope"} }
 ]
 
 ```
