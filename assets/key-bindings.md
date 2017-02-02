@@ -63,7 +63,10 @@
 { "keys": ["alt+e"], "command":"move_to", "args": {"to": "eol","extend": false} },
 
 // expand selection
-{ "keys": ["alt+shift+e"], "command": "expand_selection", "args": {"to": "scope"} }
+{ "keys": ["alt+shift+e"], "command": "expand_selection", "args": {"to": "scope"} },
+
+// select all
+{ "keys": ["alt+a"], "command": "select_all" }
 ]
 
 ```
