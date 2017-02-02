@@ -11,4 +11,4 @@ personal collection of some great packages,themes,tutorials of sublime text3
 
 ## UI theme
 
-- [Boxy theme]() - my favorite UI theme of sublime text, It has plenty of options that enable you to personalize your experience with Boxy theme
+- [Boxy theme](https://github.com/ihodev/sublime-boxy) - my favorite UI theme of sublime text, It has plenty of options that enable you to personalize your experience with Boxy theme
