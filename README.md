@@ -1,6 +1,6 @@
 # of-sublime
 
-收集一些关于 sublime text 的有用的东西，包含一些个人的使用经验介绍
+收集一些关于 sublime text 的有用的东西，包含一些个人的使用经验分享
 
 ![img](https://github.com/elegantspirit/of-sublime/blob/master/assets/sublime.jpg)
 
