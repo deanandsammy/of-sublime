@@ -16,5 +16,6 @@
 
 - [sublimecodeintel](https://github.com/SublimeCodeIntel/SublimeCodeIntel/)  全能的代码智能提示插件
 - autosave  
-  此插件自动保存功能默认处于关闭状态，preference -> key bindings -> default.sublime-keymap-user 中写入下面代码，`{ "keys": ["ctrl+shift+s"], "command": "auto_save" }`，ctrl+shift+s 打开自动保存功能。也可以 ctrl+shift+p 打开插件安装窗口，输入 autosave，选择需要保存的文件。  
+  此插件自动保存功能默认处于关闭状态，preference -> key bindings -> default.sublime-keymap-user 中写入下面代码，`{ "keys": ["ctrl+shift+s"], "command": "auto_save" }`，ctrl+shift+s 打开自动保存功能。也可以 ctrl+shift+p 打开插件安装窗口，输入 autosave，选择需要保存的文件。
+  
   ![autosave-plugin](https://github.com/elegantspirit/of-sublime/blob/master/assets/autosave-plugin.png)
