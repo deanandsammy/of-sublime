@@ -20,4 +20,4 @@ sublime-text3 使用经验分享
   
   ![autosave-plugin](https://github.com/elegantspirit/of-sublime/blob/master/assets/autosave-plugin.png)
   
-- emmet 这个不解释
+- emmet 代码快速编写神器，用过的都说好！
