@@ -20,4 +20,4 @@ sublime-text3 使用经验分享
   
   ![autosave-plugin](https://github.com/elegantspirit/of-sublime/blob/master/assets/autosave-plugin.png)
   
-- emmet 代码快速编写神器，用过的都说好！
+- [emmet](https://github.com/sergeche/emmet-sublime)  &emsp;前身是 Zen Coding）是一个前端开发不可缺少的插件，它让编写 HTML和CSS代码变得如此简单，节省了大量时间。Emmet 可使开发者用缩写形式书写代码，再用“扩展”功能自动将代码扩展至完整样式。
