@@ -1,6 +1,6 @@
 # of-sublime
 
-sublime-text3 使用经验分享
+sublime-text3 个人使用经验分享
 
 ![img](https://github.com/elegantspirit/of-sublime/blob/master/assets/sublime.jpg)
 
