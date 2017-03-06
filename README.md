@@ -1,7 +1,6 @@
 # of-sublime
 
 sublime-text3 windows下的使用经验分享
-
 ![img](https://github.com/elegantspirit/of-sublime/blob/master/assets/sublime.jpg)
 
 ## 入门
